@@ -2,6 +2,8 @@
 
 A simple 32-bit operating system built from scratch in C and Assembly.
 
+## Screenshots
+
 ![Boot](screenshots/Bootscreen.png)
 ![Qurofetch](screenshots/Qurofetch.png)
 ![Qmatrix](screenshots/Qmatrix.png)
