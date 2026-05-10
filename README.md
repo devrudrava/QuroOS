@@ -4,11 +4,9 @@ A simple 32-bit operating system built from scratch in C and Assembly.
 
 ## Screenshots
 
-![Boot](https://raw.githubusercontent.com/devrudrava/QuroOS/main/screenshots/Bootscreen.png)
-
-![Qurofetch](https://raw.githubusercontent.com/devrudrava/QuroOS/main/screenshots/Qurofetch.png)
-
-![Qmatrix](https://raw.githubusercontent.com/devrudrava/QuroOS/main/screenshots/Qmatrix.png)
+![Boot](QuroOS/screenshots/Bootscreen.png)
+![Qurofetch](QuroOS/screenshots/Qurofetch.png)
+![Qmatrix](QuroOS/screenshots/Qmatrix.png)
 
 ## Features
 
